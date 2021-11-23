@@ -6,7 +6,7 @@ This project seeks to create a program that will write "Hello World" programs fo
 
 ## Purpose
 "Hello World" programs are in high demand. We're seeing a resurgence in need for this once trite string in unsuspected
-markets and even skilled colleagues are findind themselves [toiling at their creation](https://github.com/mexiquin/CS305_a5_collab) instead of addressing pressing, non-trivial problems.
+markets and even skilled colleagues are finding themselves [toiling at their creation](https://github.com/mexiquin/CS305_a5_collab) instead of addressing pressing, non-trivial problems.
 
 
 ![hello_world](https://user-images.githubusercontent.com/59481467/143139984-0afdc713-cc1b-45af-9421-f2e20a6dc350.gif)
