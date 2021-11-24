@@ -25,6 +25,18 @@ To ease the burden of these overworked but understimulated minds, we have set ou
 Our primary goal is to create a program that will do away with the scarcity of the in-demand "Hello World".
 
 
+  
+  
+## Contributing
+One of our teams is using supervised learning techniques to instruct a model what "Hello World" programs do **not** look like for the sake of creating quality control mechanisms for the rest of the project. This team has opened up part of this process to outside contributors. To contribute to this team, you may submit code that is vaguely similar to a "Hello World" program, but is incorrect. To do so, please submit your code in code blocks, like below, to our CONTRIBUTING.md file.
+  
+Example:
+  ```python
+  print( "Goodbye cruel world!" )
+  # <your name here>
+  ```
+
+
 
 
 ## License
