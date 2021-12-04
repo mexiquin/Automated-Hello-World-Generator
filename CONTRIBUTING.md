@@ -1,4 +1,5 @@
 ```
-cowsay "ce n'est pas un <<Bonjour le monde>>, oui oui." | lolcat
+main :: IO()
+main = putStrLn "This is NOT a hello world! Watch out!"
 - Quinton Jasper
 ```
